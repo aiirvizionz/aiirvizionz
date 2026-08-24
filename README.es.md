@@ -54,17 +54,9 @@ Me interesa especialmente el punto donde las interfaces limpias, las APIs, los d
   </tr>
 </table>
 
-## Exploraciones en el ecosistema open source
+## Exploración del open source
 
-También disfruto aprender mediante repositorios públicos y ecosistemas colaborativos. Algunos temas representados en mis repositorios son:
-
-- Descubrimiento de infraestructura Web3 y datos open source estructurados mediante <a href="https://github.com/aiirvizionz/chain-love">Chain.Love</a>
-- Inteligencia de amenazas y herramientas orientadas a la seguridad mediante <a href="https://github.com/aiirvizionz/threatcrush">ThreatCrush</a>
-- Comunicación con cifrado resistente a la computación cuántica mediante <a href="https://github.com/aiirvizionz/qryptchat-web">QryptChat</a>
-- Navegación privada y orientada a IA mediante <a href="https://github.com/aiirvizionz/tronbrowser.dev">TronBrowser</a>
-- Verificación de medios generados por IA, trabajo asistido por IA y marketplaces con criptomonedas mediante <a href="https://github.com/aiirvizionz/aiornot.vote">AI or Not</a>, <a href="https://github.com/aiirvizionz/ugig.net">uGig</a> y <a href="https://github.com/aiirvizionz/tutorlinkup-web">TutorLinkUp</a>
-
-Estos repositorios incluyen tanto trabajo personal como forks públicos, así que valoro la oportunidad de aprender, contribuir y comprender cómo se construyen productos reales.
+Disfruto aprender del software de código abierto y explorar ideas relacionadas con IA, desarrollo web, privacidad, seguridad, Web3 y datos. Los repositorios públicos me ayudan a comprender prácticas reales de ingeniería y seguir mejorando mediante la experimentación.
 
 ## Herramientas
 
@@ -83,7 +75,6 @@ Estos repositorios incluyen tanto trabajo personal como forks públicos, así qu
 ## Ruta de aprendizaje
 
 - 🎓 Ingeniería en Sistemas en la **Universidad Autónoma de Nuevo León**
-- 🚀 Práctica de front-end y trabajo de portafolio mediante **Launch X**
 - 🔐 Ejercicios de programación y el reto de encriptación de texto de **Oracle ONE**
 - 🌱 Aprendizaje continuo mediante proyectos, experimentación y open source
 
@@ -105,8 +96,9 @@ Estos repositorios incluyen tanto trabajo personal como forks públicos, así qu
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aiirvizionz&show_icons=true&hide_border=true&theme=tokyonight&rank=none" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiirvizionz&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Lenguajes más usados">
+  <a href="https://github.com/aiirvizionz?tab=overview">📊 <strong>Estadísticas de GitHub</strong></a>
+  ·
+  <a href="https://github.com/aiirvizionz?tab=repositories">🧩 <strong>Lenguajes principales</strong></a>
 </p>
 
 <p align="center">
