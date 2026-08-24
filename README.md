@@ -1,7 +1,7 @@
 <!-- PROFILE README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,60:0f172a,100:22d3ee&height=220&section=header&text=David%20Lopez&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Systems%20Engineering%20Student%20at%20UANL%20%7C%20Junior%20Software%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="David Lopez profile header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,60:0f172a,100:22d3ee&height=220&section=header&text=David%20Lopez&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Junior%20Software%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="David Lopez profile header" width="100%" />
 </p>
 
 <p align="center">
