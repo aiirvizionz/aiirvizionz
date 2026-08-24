@@ -54,17 +54,9 @@ I am especially interested in the space where clean interfaces, APIs, data, and 
   </tr>
 </table>
 
-## Open-source ecosystem explorations
+## Open-source exploration
 
-I also enjoy learning through public codebases and collaborative ecosystems. Some of the themes represented in my repositories include:
-
-- Web3 infrastructure discovery and structured open-source data through <a href="https://github.com/aiirvizionz/chain-love">Chain.Love</a>
-- Threat intelligence and security-oriented tooling through <a href="https://github.com/aiirvizionz/threatcrush">ThreatCrush</a>
-- Quantum-safe communication through <a href="https://github.com/aiirvizionz/qryptchat-web">QryptChat</a>
-- Privacy-first, AI-native browsing through <a href="https://github.com/aiirvizionz/tronbrowser.dev">TronBrowser</a>
-- AI media verification, AI-assisted work, and crypto-enabled marketplaces through <a href="https://github.com/aiirvizionz/aiornot.vote">AI or Not</a>, <a href="https://github.com/aiirvizionz/ugig.net">uGig</a>, and <a href="https://github.com/aiirvizionz/tutorlinkup-web">TutorLinkUp</a>
-
-These repositories include both personal work and public forks, so I value the opportunity to learn, contribute, and understand how real-world products are built.
+I enjoy learning from open-source software and exploring ideas around AI, web development, privacy, security, Web3, and data. Public codebases help me understand real-world engineering practices and keep improving through experimentation.
 
 ## Toolbox
 
@@ -83,7 +75,6 @@ These repositories include both personal work and public forks, so I value the o
 ## Learning path
 
 - 🎓 Systems Engineering at **Universidad Autónoma de Nuevo León**
-- 🚀 Front-end practice and portfolio work through **Launch X**
 - 🔐 Programming exercises and the text-encryption challenge from **Oracle ONE**
 - 🌱 Continuous learning through projects, experimentation, and open source
 
@@ -105,8 +96,9 @@ These repositories include both personal work and public forks, so I value the o
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aiirvizionz&show_icons=true&hide_border=true&theme=tokyonight&rank=none" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiirvizionz&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
+  <a href="https://github.com/aiirvizionz?tab=overview">📊 <strong>GitHub statistics</strong></a>
+  ·
+  <a href="https://github.com/aiirvizionz?tab=repositories">🧩 <strong>Top languages</strong></a>
 </p>
 
 <p align="center">
