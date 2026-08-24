@@ -1,6 +1,6 @@
 <!-- PROFILE README -->
 
-<p align="right"><strong>🌐 Language:</strong> <strong>🇬🇧 EN</strong> · <a href="https://github.com/aiirvizionz/aiirvizionz/blob/main/README.es.md">🇪🇸 Español</a></p>
+<p align="right"><strong>🌐 Language:</strong> <strong>EN English</strong> · <a href="https://github.com/aiirvizionz/aiirvizionz/blob/main/README.es.md">ES Español</a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,60:0f172a,100:22d3ee&height=220&section=header&text=David%20Lopez&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Junior%20Software%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="David Lopez profile header" width="100%" />
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <em>I learn by shipping, improve by iterating, and enjoy turning ambitious ideas into useful software.</em>
+  <em>I learn by creating, improve by iterating, and enjoy turning ambitious ideas into useful software.</em>
 </p>
 
 ## What I build
@@ -47,13 +47,9 @@ I am especially interested in the space where clean interfaces, APIs, data, and 
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="100%" colspan="2">
       <h3>📦 <a href="https://github.com/aiirvizionz/Bin-Packing-Problem">Bin Packing Problem</a></h3>
       <p>An interactive, framework-free browser project built with HTML, CSS, and JavaScript to explore an optimization problem.</p>
-    </td>
-    <td width="50%">
-      <h3>🌦️ <a href="https://github.com/aiirvizionz/Portafolio">Web portfolio</a></h3>
-      <p>A project portfolio featuring browser-based work such as Weatherly, an OpenWeatherMap API app, and a JavaScript calculator.</p>
     </td>
   </tr>
 </table>
