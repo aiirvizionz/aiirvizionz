@@ -1,6 +1,6 @@
 <!-- PROFILE README - SPANISH VERSION -->
 
-<p align="right"><strong>🌐 Idioma:</strong> <a href="https://github.com/aiirvizionz">🇬🇧 EN</a> · <strong>🇪🇸 Español</strong></p>
+<p align="right"><strong>🌐 Idioma:</strong> <a href="https://github.com/aiirvizionz">EN English</a> · <strong>ES Español</strong></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,60:0f172a,100:22d3ee&height=220&section=header&text=David%20Lopez&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Junior%20Software%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner del perfil de David Lopez" width="100%" />
@@ -47,13 +47,9 @@ Me interesa especialmente el punto donde las interfaces limpias, las APIs, los d
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="100%" colspan="2">
       <h3>📦 <a href="https://github.com/aiirvizionz/Bin-Packing-Problem">Problema de Bin Packing</a></h3>
       <p>Un proyecto interactivo para navegador, sin framework, construido con HTML, CSS y JavaScript para explorar un problema de optimización.</p>
-    </td>
-    <td width="50%">
-      <h3>🌦️ <a href="https://github.com/aiirvizionz/Portafolio">Portafolio web</a></h3>
-      <p>Un portafolio de proyectos con trabajos para navegador como Weatherly, una app que consume la API de OpenWeatherMap, y una calculadora en JavaScript.</p>
     </td>
   </tr>
 </table>
