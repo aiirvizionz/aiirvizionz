@@ -1,10 +1,13 @@
 <!-- PROFILE README -->
 
+
 <p align="right"><strong>🌐 Language:</strong> <strong>EN English</strong> · <a href="https://github.com/aiirvizionz/aiirvizionz/blob/main/README.es.md">ES Español</a></p>
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,60:0f172a,100:22d3ee&height=220&section=header&text=David%20Lopez&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Junior%20Software%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="David Lopez profile header" width="100%" />
+  <img src="https://raw.githubusercontent.com/aiirvizionz/aiirvizionz/main/github-profile-banner-paper.jpg" alt="David Lopez profile header" width="100%" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/aiirvizionz"><img src="https://img.shields.io/badge/GitHub-aiirvizionz-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -12,20 +15,26 @@
   <a href="https://www.linkedin.com/in/alelohu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+
 <h1 align="center">Hi, I'm David 👋</h1>
+
 
 <p align="center">
   <strong>Systems Engineering student at UANL</strong> · <strong>Junior Software Developer</strong><br>
   Building practical web experiences, AI-assisted tools, and open-source experiments from Monterrey, Mexico.
 </p>
 
+
 <p align="center">
   <em>I learn by creating, improve by iterating, and enjoy turning ambitious ideas into useful software.</em>
 </p>
 
+
 ## What I build
 
+
 I am especially interested in the space where clean interfaces, APIs, data, and intelligent systems meet. My projects and public repository explorations span:
+
 
 - AI-assisted products and workflow-driven applications
 - Web development with a strong focus on practical user experiences
@@ -33,7 +42,9 @@ I am especially interested in the space where clean interfaces, APIs, data, and 
 - Privacy, security, Web3 infrastructure, and open-source collaboration
 - Small tools that make complex ideas easier to understand
 
+
 ## Featured work
+
 
 <table>
   <tr>
@@ -54,53 +65,8 @@ I am especially interested in the space where clean interfaces, APIs, data, and 
   </tr>
 </table>
 
+
 ## Open-source exploration
 
+
 I enjoy learning from open-source software and exploring ideas around AI, web development, privacy, security, Web3, and data. Public codebases help me understand real-world engineering practices and keep improving through experimentation.
-
-## Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/APIs-0F172A?style=flat-square&logo=fastapi&logoColor=22D3EE" alt="APIs">
-  <img src="https://img.shields.io/badge/Databases-0F172A?style=flat-square&logo=databricks&logoColor=22D3EE" alt="Databases">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-0F172A?style=flat-square&logo=probot&logoColor=22D3EE" alt="AI and machine learning">
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub">
-</p>
-
-## Learning path
-
-- 🎓 Systems Engineering at **Universidad Autónoma de Nuevo León**
-- 🔐 Programming exercises and the text-encryption challenge from **Oracle ONE**
-- 🌱 Continuous learning through projects, experimentation, and open source
-
-## Current focus
-
-- Shipping clearer, more useful software
-- Deepening my work with Python, APIs, AI/ML, and data
-- Building a stronger open-source portfolio
-- Collaborating on ideas that connect technology with real-world value
-
-## Let's connect
-
-<p align="center">
-  <a href="https://aiirvizionz.github.io/Portafolio/"><strong>Portfolio</strong></a>
-  ·
-  <a href="https://www.linkedin.com/in/alelohu/"><strong>LinkedIn</strong></a>
-  ·
-  <a href="https://github.com/aiirvizionz"><strong>GitHub</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aiirvizionz?tab=overview">📊 <strong>GitHub statistics</strong></a>
-  ·
-  <a href="https://github.com/aiirvizionz?tab=repositories">🧩 <strong>Top languages</strong></a>
-</p>
-
-<p align="center">
-  <sub>Thanks for stopping by — feel free to explore, connect, and build something meaningful.</sub>
-</p>
