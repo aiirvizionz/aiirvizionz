@@ -13,7 +13,7 @@
 <h1 align="center">Hi, I'm David 👋</h1>
 
 <p align="center">
-  <strong>Systems Engineering student at UANL</strong> · <strong>Junior Software Developer</strong><br>
+  <strong>Systems Engineering student</strong> · <strong>Junior Software Developer</strong><br>
   Building practical web experiences, AI-assisted tools, and open-source experiments from Monterrey, Mexico.
 </p>
 
